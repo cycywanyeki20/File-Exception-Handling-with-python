@@ -1,0 +1,1 @@
+Welcome to my weekly coding challenge with python. THis week we will learn about file namdling and exception handling.
